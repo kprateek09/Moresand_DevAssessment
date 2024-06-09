@@ -1,0 +1,22 @@
+{
+  "Operations": [
+    {
+      "Name": "Resize",
+      "Parameters": {
+        "Height": 150,
+        "Width": 150
+      }
+    },
+    {
+      "Name": "Blur",
+      "Parameters": {
+        "BlurValue": 5
+      }
+    },
+    {
+      "Name": "GreyScale",
+      "Parameters": {
+      }
+    }
+  ]
+}

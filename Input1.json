@@ -1,0 +1,17 @@
+{
+  "Operations": [
+    {
+      "Name": "Resize",
+      "Parameters": {
+        "Height": 100,
+        "Width": 100
+      }
+    },
+    {
+      "Name": "Blur",
+      "Parameters": {
+        "BlurValue": 2
+      }
+    }
+  ]
+}
